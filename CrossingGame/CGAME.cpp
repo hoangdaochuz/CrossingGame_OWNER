@@ -293,7 +293,7 @@ void CGAME::PlayGame() {
 		
 		CDRAW cdraw;
 		cdraw.printLevel(144, 1, cg->getLevel());
-		cg->DebugOutput(178);
+		//cg->DebugOutput(178);
 		cg->updatePosPeople(MOVING);
 
 		
