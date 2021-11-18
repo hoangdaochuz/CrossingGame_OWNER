@@ -148,6 +148,7 @@
     <ClCompile Include="CVEHICLE.cpp" />
     <ClCompile Include="GUI.cpp" />
     <ClCompile Include="Mylib.cpp" />
+    <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CANIMAL.h" />
